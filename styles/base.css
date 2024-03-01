@@ -1,15 +1,5 @@
-
-/* Example pages */
-.try {
-    background-color: blanchedalmond;
+body {
+    background-color:azure;
+    margin: 0 auto;
+    padding: 1rem 20rem;
 }
-#try1 {
-    color: red;
-}
-#try2 {
-    color: blue;
-}
-#try3 {
-    color: rgb(70, 94, 22);
-}
-
